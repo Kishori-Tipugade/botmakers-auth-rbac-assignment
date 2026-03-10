@@ -1,0 +1,19 @@
+body{
+  font-family: Arial;
+  background:#1e1e1e;
+  color:white;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+input{
+  margin:6px;
+  padding:8px;
+}
+
+button{
+  padding:8px 16px;
+  margin-top:8px;
+}
